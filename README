@@ -1,0 +1,14 @@
+
+p_serial
+
+
+    - posix serial port communication utilities
+
+    - based on:
+		Serial Programming Guide for POSIX Operating Systems
+	   	(https://www.cmrr.umn.edu/~strupp/serial.html#CONTENTS) 
+ 
+ 
+    - developed (and tested) mainly for serial communication 
+      with arduino and other microcontrollers
+
